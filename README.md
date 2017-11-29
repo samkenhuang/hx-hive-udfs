@@ -20,4 +20,3 @@ See the details at [github:json-path/JsonPath](https://github.com/json-path/Json
 
 ## License
 [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
